@@ -1,0 +1,27 @@
+{
+  "name": "simple-image-slider",
+  "main": "simple-image-slider.js",
+  "homepage": "https://github.com/clinteastwo0d/simple-image-slider",
+  "authors": [
+    "Kim Jami <kiim.jami@gmail.com>"
+  ],
+  "description": "A simple image slider for jQuery",
+  "keywords": [
+    "simple",
+    "image",
+    "images",
+    "slider",
+    "jquery"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
